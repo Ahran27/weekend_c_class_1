@@ -12,7 +12,7 @@ int main(void)
 
 	float fnum = 3.1415;
 	printf("실수 소수점 자르기 %0.2f",fnum);
-	
+	printf("ghghjghjg");
 
 	return 0;
 }
