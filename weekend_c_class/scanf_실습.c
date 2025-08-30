@@ -14,6 +14,7 @@ int main(void)
 	printf("실수 소수점 자르기 %0.2f",fnum);
 	printf("ghghjghjg");
 	printf("ghghjghjg");
+	printf("");
 
 	return 0;
 }
