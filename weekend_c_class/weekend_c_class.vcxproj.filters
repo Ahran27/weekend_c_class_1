@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\day2">
       <UniqueIdentifier>{14d1b7f6-2bd1-47c2-ba83-fbf60c440cf5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day3">
+      <UniqueIdentifier>{0aa74a55-b132-4dd5-a1e5-755075b7ee58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -59,6 +62,45 @@
     </ClCompile>
     <ClCompile Include="scanf_실습.c">
       <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="대입연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="비교연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자우선순위.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="기말고사.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="논리연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="아아아.c">
+      <Filter>소스 파일\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항조건연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="if문.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="복합조건버스비.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩if.c">
+      <Filter>소스 파일\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="배송비.c">
+      <Filter>소스 파일\day3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
