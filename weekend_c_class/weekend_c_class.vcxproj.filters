@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\day4">
       <UniqueIdentifier>{09da5353-483c-4b0e-8614-da2d599c94d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day5">
+      <UniqueIdentifier>{d862899e-ba58-4f56-b92d-fe42786aadc8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -143,6 +146,36 @@
     </ClCompile>
     <ClCompile Include="두웨일과스위치.c">
       <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩for문.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="구구단.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="난수.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="업다운게임.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="가위바위보.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="좋아하는숫자출력하기.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="문자와배열.c">
+      <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_문자받기.c">
+      <Filter>소스 파일\day5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

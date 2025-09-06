@@ -9,7 +9,7 @@ int main(void)
 
 	*/
 	int forNumber;
-	for (forNumber = 1; forNumber <= 10; forNumber++) {//forNumber는 1, forNumber가 10보다 작을때 까지 forNumber를 더해준다
+	for (forNumber = 1; forNumber <= 10; forNumber++) {//forNumber는 1, forNumber가 10보다 작을때 까지 forNumber 증가
 		printf("반복%d\n", forNumber);
 
 	}
